@@ -10,7 +10,7 @@ This is a frontend clone of the Amazon website, built using **HTML**, **CSS**, a
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 
 ## How to Run
 1. Clone the repository:  
